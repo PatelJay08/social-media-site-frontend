@@ -1,0 +1,19 @@
+.logipage__text{
+    width:258px;
+    height: 36px;
+    margin:5px;
+    border: 1px solid #DBDBDB;
+    background-color: #FAFAFA;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.login__button{
+    width:270px;
+    height: 36px;
+    border-radius: 5px;
+    font-weight: bold;
+    margin-top: 5px;
+    border:1px solid #0395F6;
+    background-color: #0395F6;
+    color: white;
+}

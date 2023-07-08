@@ -1,0 +1,37 @@
+.actions__maincontainer {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 30px;
+    margin-left: 1270px;
+    margin-top: 25px;
+    border: 1px solid #dbdbdb;
+    width: 550px;
+    height: 100px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.main_container{
+
+}
+
+
+.mainpage__uploadicon {
+    height: 80px;
+    width: 80px;
+    margin-top: 9px;
+    cursor: pointer;
+}
+
+.fileupload > input {
+    display: none;
+}
+
+.upload-img{
+    height: 50px;
+    width: 50px;
+    margin-top: 25px;
+    cursor: pointer;
+}

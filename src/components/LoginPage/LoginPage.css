@@ -1,0 +1,18 @@
+.loginpage__main_ {
+    display: flex;
+    margin-top: 250px;
+    margin-left: -65px;
+    justify-content: center;
+}
+
+.loginpage_rightcomponent { 
+    width: 350px;
+    padding-bottom: 25px;
+    border: 1px solid #DBDBDB;
+    margin-top: 25px;
+    text-align: center;
+    background-color: white;
+}
+.loginPage__signin {
+    margin-top: 25px;
+}
